@@ -1,4 +1,4 @@
-👋 I'm @JoeManto an iOS and macOS developer with 10 years of experience developing apps, frameworks, and tools.
+👋 I'm @JoeManto an experienced software engineer with a strong background in building, releasing, and maintaining iOS and macOS apps
 
 Currently doing iOS and analytics work [@VMware](https://www.vmware.com/)
 
