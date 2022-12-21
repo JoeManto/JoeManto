@@ -1,4 +1,4 @@
-Currently doing iOS and analytics work [@VMware](https://www.vmware.com/)
+Currently doing iOS and analytics [@VMware](https://www.vmware.com/)
 
 CV: https://manto.dev
 
