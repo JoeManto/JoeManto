@@ -1,8 +1,4 @@
-Currently iOS and analytics [@VMware](https://www.vmware.com/)
-
-CV: https://manto.dev
-
-Contact: joemanto.dev+github@gmail.com
+SWE [@Apple](https://www.apple.com/)
 
 <!---
 JoeManto/JoeManto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
